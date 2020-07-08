@@ -1,4 +1,5 @@
 Gitの練習をします
 基本的なワークフローを学びます。
 ・git sdd
-・git commitgit a
+・git commit
+・git rm
